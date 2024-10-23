@@ -12,18 +12,18 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmKq2v8l9sp9i4RY9WZ6mppDL9voBxH_sl1cZGmm7TkenwkybRT-nnxRApKBk-2CS0eY&usqp=CAU"/>
 
-<img src="https://komarev.com/ghpvc/?username=devwithshahzaib&label=Profile%20views&color=0e75b6" alt="devwithabs" />
+<img src="https://komarev.com/ghpvc/?username=Abdulrehmanabs&label=Profile%20views&color=0e75b6" alt="devwithabs" />
 <a href="https://x.com/AbdulRe01208267" target="blank">
-  <img src="https://img.shields.io/twitter/follow/DevWithABS?logo=x&style=for-the-badge" alt="devwithabs" />
+  <img src="https://img.shields.io/twitter/follow/AbdulRe01208267?logo=x&style=for-the-badge" alt="devwithabs" />
 </a>
 
-- 💬 Ask me about ReactJs, NextJS, Gatsby, React Native, Expo etc.
+- 💬 Ask me about ReactJs, NextJS, Gatsby, React Native, Expo, etc.
 
 - 👀 I’m interested in *Artificial Intelligence*.
 
-- 🌱 I’m currently exploring mind blowing things.
+- 🌱 I’m currently exploring mind-blowing things.
 
-- 💞️ I’m looking to collaborate on latest trending technologies.
+- 💞️ I’m looking to collaborate on the latest trending technologies.
 
 - 📫 How to reach me abdulrehmanabs786@gmail.com 
 
